@@ -7,7 +7,23 @@
 	</children>
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{EAC717E0-7BA6-45AF-869D-3DA84A304670}" version="14">
-		<children />
+		<children>
+			<testItem name="StartNotepad" key="{8568198D-386E-4FB8-BBE9-A0DB348430D5}" group="False" parallel="False" enabled="True" testMoniker="KDT\{6A2E3DFE-2A4D-413C-9879-FDFEFD324B33}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+			<testItem name="EnterTextInNotePad" key="{D0979416-9466-4CFA-A12B-BB940C163228}" group="False" parallel="False" enabled="True" testMoniker="KDT\{796195BE-EE58-47DC-96C8-D06CE90CD07C}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+			<testItem name="CloseNotepad" key="{ABB960DC-7A36-4D77-A544-99D4772C1662}" group="False" parallel="False" enabled="True" testMoniker="KDT\{D643C40B-58D1-47A1-8DD8-730282F44A8D}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{89CE077E-670D-4C17-B789-3ED0012455CD}" />
 	<settings key="{401CDDFC-5579-42A1-AF90-C91CBFABCC9C}">

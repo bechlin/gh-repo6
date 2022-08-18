@@ -36,6 +36,12 @@
 					<Node name="{6a2e3dfe-2a4d-413c-9879-fdfefd324b33}\testdata">
 						<Node name="expanding"/>
 					</Node>
+					<Node name="{796195be-ee58-47dc-96c8-d06ce90cd07c}\testdata">
+						<Node name="expanding"/>
+					</Node>
+					<Node name="{d643c40b-58d1-47a1-8dd8-730282f44a8d}\testdata">
+						<Node name="expanding"/>
+					</Node>
 				</Node>
 			</Node>
 			<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}">
@@ -47,7 +53,14 @@
 				<Node name="{02542b04-194a-4903-b727-27ddea5f3f24}"/>
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
-			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}"/>
+			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
+				<Node name="notepadprojectsuite">
+					<Node name="testproject1">
+						<Node name="keywordtests"/>
+						<Node name="script"/>
+					</Node>
+				</Node>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
 	</Node>
