@@ -4,5 +4,6 @@
 		<child name="StartNotepad" key="{6A2E3DFE-2A4D-413C-9879-FDFEFD324B33}" path="StartNotepad.tcKDTest" />
 		<child name="EnterTextInNotePad" key="{796195BE-EE58-47DC-96C8-D06CE90CD07C}" path="EnterTextInNotePad.tcKDTest" />
 		<child name="CloseNotepad" key="{D643C40B-58D1-47A1-8DD8-730282F44A8D}" path="CloseNotepad.tcKDTest" />
+		<child name="Test1" key="{967B32A7-F9A1-4028-8969-4886B53245CC}" path="Test1.tcKDTest" />
 	</children>
 </Root>
