@@ -4,6 +4,7 @@
 		<child name="NameMapping" key="{868F8170-8123-4EAF-AAB2-2B0CDBBCE1E3}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
 		<child name="Script" key="{CFEAD651-F9DE-4F00-AE5C-29D9AAD02303}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
 		<child name="KeywordTests" key="{CDEBAE92-EBCF-43E7-AF41-6D9A8930AB58}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
+		<child name="TestedApps" key="{090AD01F-44CD-4611-ADAC-64A32C7BEAB7}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="" path="TestedApps\TestedApps.tcTAs" />
 	</children>
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{EAC717E0-7BA6-45AF-869D-3DA84A304670}" version="14">
@@ -557,7 +558,7 @@
 				<row val0="Update existing frames only" />
 			</data>
 		</setting>
-		<setting name="Visualizer_BindToSCC" type="1" value="True" />
+		<setting name="Visualizer_BindToSCC" type="1" value="False" />
 		<setting name="Visualizer_CaptureStyle" type="6" rowIndex="0" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />

@@ -58,6 +58,7 @@
 					<Node name="testproject1">
 						<Node name="keywordtests"/>
 						<Node name="script"/>
+						<Node name="testedapps"/>
 					</Node>
 				</Node>
 			</Node>
